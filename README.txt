@@ -1,6 +1,4 @@
-Autor: Magnus Karlson
-Programm on kirjutatud keeles c++
-Kompileerimine: g++ ly13.cpp -o ly13
+Kompileerimine: g++ prim.cpp -o prim
 Graafis olevad servad loetakse failist servad.txt
 servad.txt peab olemas samas kaustas, kus ly13.exe
 Graafi toespuu tekitatakse faili toespuu.txt
